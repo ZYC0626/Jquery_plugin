@@ -76,7 +76,7 @@ body{
 }
 .nav li a{
 	text-decoration: none;
-	
+
 }
 .fb a{
 	color: #5c74ab;
@@ -93,7 +93,7 @@ body{
 	display: flex;
 	padding: 0px 8px;
 }
-.drowDown{
+.header .menu li a{
 	font-size: 15px;
 	text-decoration: none;
     color:	#66cdaa;
@@ -103,6 +103,7 @@ body{
 	margin-left: 25px;
     font-weight: bold;
 }
+
 .header .menu li a:hover , .header .menu li a.active{
 	
 	border-bottom: 3px solid #66cdaa;
